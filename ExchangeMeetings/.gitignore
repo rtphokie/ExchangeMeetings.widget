@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+*.json
+ExchangeMeetings_config.yml
+venv/
