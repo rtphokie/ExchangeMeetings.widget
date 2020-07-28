@@ -6,9 +6,9 @@ ExchangeMeetings fetches upcoming meetings and appointments on your Exchange cal
 
 ## Requirements
 * [Python3](https://www.python.org/downloads/mac-osx/)
-* Interaction shortcut ([in Übersicht preferences](http://tracesof.net/blog/2015/11/29/clickable-widgets-experiment/)) for clickable meetings
 
 ## Features
+* Clickable shortcut ([in Übersicht preferences](http://tracesof.net/blog/2015/11/29/clickable-widgets-experiment/)) to join WebEx/Zoom meetings
 * Exchange calendar entries for today and tomorrow
 * meeting subject, duration, duration, number of attendees (required and optional)
 * WebEx and Zoom meetings are identified with icons and are clickable to join
